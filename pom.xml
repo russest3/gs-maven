@@ -25,7 +25,8 @@
 		<!-- end::junit[] -->
 	</dependencies>
 
-       <repositories>
+    <repositories>
+    	<repository>
             <id>mySnapshots</id>            
             <url>http://10.0.1.11:8081/artifactory/snapshots</url>
             <snapshots>
